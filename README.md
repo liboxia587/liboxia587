@@ -44,7 +44,7 @@ I'm building **one small AI tool every day** — using Claude Code & Manus to tu
 
 | Project | What | Stack | Status |
 |---|---|---|---|
-| 🗒️ [desktop-daily-todo](https://github.com/liboxia587/desktop-daily-todo) | Windows 桌面便签 · Markdown 数据 · Obsidian 兼容 | Python + PyQt6 | ✅ v1.1.0 · [⬇️ Download EXE](https://github.com/liboxia587/desktop-daily-todo/releases/latest) |
+| 🗒️ [desktop-daily-todo](https://github.com/liboxia587/desktop-daily-todo) | Windows 桌面便签 · Markdown 数据 · Obsidian 兼容 | Python + PyQt6 | ✅ v1.3.0 · [⬇️ Download EXE](https://github.com/liboxia587/desktop-daily-todo/releases/latest) |
 | 🚧 More coming | 下一个 vibe coding 作品 | TBD | 🌱 in pipeline |
 
 > 🐈‍⬛ **Star ⭐ any repo you like** — it tells me what to build next.
